@@ -1,0 +1,21 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# CAPACITOR
+#
+DEF ~CAPACITOR C 0 40 Y Y 1 F N
+F0 "C" 60 15 59 H V L BNN
+F1 "CAPACITOR" 60 -185 59 H I L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -80 -80 80 -60 1 0 0 F
+S -80 -40 80 -20 1 0 0 F
+P 2 1 0 0 0 -100 0 -80 N
+P 2 1 0 0 0 0 0 -20 N
+X 1 1 0 100 100 D 0 0 1 0 P
+X 2 2 0 -200 100 U 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library

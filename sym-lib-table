@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name C64-eagle-import)(type Legacy)(uri ${KIPRJMOD}/C64-eagle-import.lib)(options "")(descr ""))
+  (lib (name c64_lib)(type Legacy)(uri "C:/Users/boher/OneDrive/Github/C64-Schematics-Boards/From Programmer's Reference Guide/kicad2/c64_lib.lib")(options "")(descr ""))
+)
