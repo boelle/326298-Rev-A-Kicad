@@ -1,4 +1,4 @@
-update=24-02-2018 00:18:00
+update=26-02-2018 00:21:37
 version=1
 last_client=kicad
 [pcbnew]
@@ -53,11 +53,12 @@ LibName23=Schematic Symbols/SN74258N/SN74258N
 LibName24=Schematic Symbols/ZENER/ZENER
 LibName25=Schematic Symbols/SN74629/SN74629
 LibName26=Schematic Symbols/TIP29B/TIP29B
-LibName27=Schematic Symbols/BRIDGE_RECTIFIER/BRIDGE_RECTIFIER
-LibName28=Schematic Symbols/RESISTOR/RESISTOR
-LibName29=Schematic Symbols/CAPACITOR/CAPACITOR
-LibName30=Schematic Symbols/C_ELECTROLYTIC/C_ELECTROLYTIC
-LibName31=Schematic Symbols/SH32/sh32
-LibName32=conn
+LibName27=Schematic Symbols/RESISTOR/RESISTOR
+LibName28=Schematic Symbols/CAPACITOR/CAPACITOR
+LibName29=Schematic Symbols/C_ELECTROLYTIC/C_ELECTROLYTIC
+LibName30=Schematic Symbols/SH32/sh32
+LibName31=conn
+LibName32=Schematic Symbols/DIN7/DIN7
+LibName33=Schematic Symbols/BRIDGE_RECTIFIER/BRIDGE_RECTIFIER
 [general]
 version=1

@@ -42,4 +42,5 @@
   (lib (name SH32)(type KiCad)(uri "$(KIPRJMOD)/PCB Footprints/SH32")(options "")(descr ""))
   (lib (name CASSETTEPORT)(type KiCad)(uri "$(KIPRJMOD)/PCB Footprints/CASSETTEPORT")(options "")(descr ""))
   (lib (name Socket_Strips)(type KiCad)(uri "$(KISYSMOD)/Socket_Strips.pretty")(options "")(descr ""))
+  (lib (name DIN7)(type KiCad)(uri "$(KIPRJMOD)/PCB Footprints/DIN7")(options "")(descr ""))
 )
