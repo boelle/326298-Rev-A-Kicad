@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source C:/Users/boher/OneDrive/Github/326298-Rev-A-Kicad/C64.sch)
-    (date "26-02-2018 00:08:31")
+    (source C:\Users\boher\OneDrive\Github\326298-Rev-A-Kicad\C64.sch)
+    (date "26-02-2018 01:05:51")
     (tool "Eeschema 4.0.7")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -201,7 +201,7 @@
       (tstamp 7E62DD6C))
     (comp (ref CN2)
       (value USERPORT-C64-EDGE)
-      (footprint userport:UPS24EDGE)
+      (footprint USERPORT:USERPORT)
       (libsource (lib C64-cache) (part C64-eagle-import:USERPORT-C64-EDGE))
       (sheetpath (names /) (tstamps /))
       (tstamp 3E9C7CC7))
