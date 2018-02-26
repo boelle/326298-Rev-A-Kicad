@@ -2082,9 +2082,7 @@ Wire Wire Line
 Wire Wire Line
 	5300 19000 5300 19060
 Wire Wire Line
-	4400 19000 4400 18700
-Wire Wire Line
-	4400 18700 900  18700
+	900  18700 4700 18700
 Wire Wire Line
 	900  18700 900  14100
 Wire Wire Line
@@ -2104,8 +2102,6 @@ Wire Wire Line
 	1000 14200 1000 18600
 Wire Wire Line
 	1000 18600 6100 18600
-Wire Wire Line
-	4800 18600 4800 19700
 Wire Wire Line
 	6900 17900 6100 17900
 Wire Wire Line
@@ -3605,7 +3601,7 @@ Wire Wire Line
 Wire Wire Line
 	18100 10000 18100 13100
 Wire Wire Line
-	18100 10000 16400 10000
+	16400 10000 18100 10000
 Wire Wire Line
 	15400 11100 16200 11100
 Wire Wire Line
@@ -9671,15 +9667,9 @@ Text Label 4200 17250 0    10   ~ 0
 N$59
 Text Label 4600 17400 0    10   ~ 0
 N$58
-Text Label 6800 17900 0    10   ~ 0
+Text Label 1100 14100 0    10   ~ 0
 N$24
-Text Label 4900 18600 0    10   ~ 0
-N$24
-Text Label 1050 14200 0    10   ~ 0
-N$24
-Text Label 4500 19000 0    10   ~ 0
-N$23
-Text Label 1000 14100 0    10   ~ 0
+Text Label 4850 19000 0    10   ~ 0
 N$23
 Text Label 5300 19050 0    10   ~ 0
 N$23
@@ -11797,4 +11787,19 @@ Text Label 23100 13100 0    10   ~ 0
 RES
 Text Label 16450 10000 0    10   ~ 0
 RES
+Wire Wire Line
+	4800 18600 4800 19000
+Connection ~ 4800 19000
+Wire Wire Line
+	4700 18700 4700 19450
+Wire Wire Line
+	4700 19450 4800 19450
+Wire Wire Line
+	4800 19450 4800 19700
+Text Label 4900 18600 0    10   ~ 0
+N$23
+Text Label 6800 17900 0    10   ~ 0
+N$23
+Text Label 1100 14200 0    10   ~ 0
+N$23
 $EndSCHEMATC

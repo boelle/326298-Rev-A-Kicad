@@ -1163,7 +1163,7 @@ Text Label 6900 6200 0    70   ~ 0
 D1
 Wire Wire Line
 	7100 6200 6800 6200
-Text Label 19500 9200 0    70   ~ 0
+Text Label 19500 9000 0    70   ~ 0
 D1
 Wire Wire Line
 	19400 9100 19700 9100
@@ -1212,7 +1212,7 @@ Text Label 6900 6300 0    70   ~ 0
 D2
 Wire Wire Line
 	7100 6300 6800 6300
-Text Label 19500 9000 0    70   ~ 0
+Text Label 19500 9100 0    70   ~ 0
 D2
 Wire Wire Line
 	19400 9000 19700 9000
@@ -1261,7 +1261,7 @@ Text Label 6900 6400 0    70   ~ 0
 D3
 Wire Wire Line
 	7100 6400 6800 6400
-Text Label 19500 9100 0    70   ~ 0
+Text Label 19500 9200 0    70   ~ 0
 D3
 Wire Wire Line
 	19400 8900 19700 8900
