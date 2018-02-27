@@ -9379,7 +9379,7 @@ Text Label 2800 4500 0    10   ~ 0
 N$94
 Text Label 3350 6800 0    10   ~ 0
 N$94
-Text Label 4300 6400 0    10   ~ 0
+Text Label 4400 6350 0    10   ~ 0
 N$97
 Text Label 4400 7000 0    10   ~ 0
 N$96
@@ -9407,13 +9407,13 @@ Text Label 3350 6900 0    10   ~ 0
 N$95
 Text Label 5550 6900 0    10   ~ 0
 N$95
-Text Label 3350 6400 0    10   ~ 0
+Text Label 3300 6400 0    10   ~ 0
 N$97
 Text Label 3350 6500 0    10   ~ 0
 N$91
 Text Label 3350 6600 0    10   ~ 0
 N$92
-Text Label 3350 6700 0    10   ~ 0
+Text Label 3300 6700 0    10   ~ 0
 N$93
 Text Label 3350 7000 0    10   ~ 0
 N$96
