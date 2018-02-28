@@ -3970,8 +3970,6 @@ Wire Wire Line
 	13800 13000 13800 15000
 Wire Wire Line
 	13800 15000 14300 15000
-Wire Wire Line
-	23700 7500 23700 7600
 Connection ~ 20300 8500
 Connection ~ 20400 8500
 Connection ~ 20500 8500
@@ -9669,11 +9667,11 @@ RES
 Text Label 7700 12900 0    10   ~ 0
 RES
 Text Label 11450 12000 0    10   ~ 0
-RES
+N$166
 Text Label 11950 12000 0    10   ~ 0
-RES
+N$166
 Text Label 10650 11800 0    10   ~ 0
-RES
+N$166
 Text Label 6900 13700 0    10   ~ 0
 PHI2
 Text Label 7850 13500 0    10   ~ 0
@@ -10031,8 +10029,6 @@ N$55
 Text Label 24450 8700 0    10   ~ 0
 N$52
 Text Label 24450 8900 0    10   ~ 0
-N$155
-Text Label 24450 9100 0    10   ~ 0
 N$155
 Text Label 24450 9400 0    10   ~ 0
 N$162
@@ -11633,7 +11629,7 @@ Connection ~ 13700 13500
 Text Label 14200 15100 0    10   ~ 0
 RW
 Text Label 14150 15400 0    10   ~ 0
-RES
+N$166
 Wire Wire Line
 	16500 10000 16500 9400
 Wire Wire Line
@@ -11780,4 +11776,6 @@ N$41
 Wire Wire Line
 	4600 17700 4700 17700
 NoConn ~ 11900 20300
+Text Label 24450 9100 0    10   ~ 0
+PHI0
 $EndSCHEMATC
