@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LS175
+D 4 bits D FlipFlop, reset
+K TTL REG REG4 DFF
+$ENDCMP
+#
+#End Doc Library

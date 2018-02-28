@@ -1,4 +1,4 @@
-update=28-02-2018 22:21:31
+update=28-02-2018 23:49:16
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,7 +59,7 @@ LibName27=Schematic Symbols/RESISTOR/RESISTOR
 LibName28=Schematic Symbols/CAPACITOR/CAPACITOR
 LibName29=Schematic Symbols/C_ELECTROLYTIC/C_ELECTROLYTIC
 LibName30=Schematic Symbols/SH32/sh32
-LibName31=conn
-LibName32=Schematic Symbols/DIN7/DIN7
-LibName33=Schematic Symbols/BRIDGE_RECTIFIER/BRIDGE_RECTIFIER
-LibName34=74xx
+LibName31=Schematic Symbols/DIN7/DIN7
+LibName32=Schematic Symbols/BRIDGE_RECTIFIER/BRIDGE_RECTIFIER
+LibName33=Schematic Symbols/74ls175/74ls175
+LibName34=Schematic Symbols/74ls02/74ls02
