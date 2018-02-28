@@ -44,4 +44,5 @@
   (lib (name Socket_Strips)(type KiCad)(uri "$(KISYSMOD)/Socket_Strips.pretty")(options "")(descr ""))
   (lib (name DIN7)(type KiCad)(uri "$(KIPRJMOD)/PCB Footprints/DIN7")(options "")(descr ""))
   (lib (name USERPORT)(type KiCad)(uri "$(KIPRJMOD)/PCB Footprints/USERPORT")(options "")(descr ""))
+  (lib (name Mounting_Holes)(type KiCad)(uri "$(KISYSMOD)/Mounting_Holes.pretty")(options "")(descr ""))
 )
