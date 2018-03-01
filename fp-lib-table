@@ -47,4 +47,5 @@
   (lib (name Mounting_Holes)(type KiCad)(uri "$(KISYSMOD)/Mounting_Holes.pretty")(options "")(descr ""))
   (lib (name 74LS175)(type KiCad)(uri "$(KIPRJMOD)/PCB Footprints/74LS175")(options "")(descr ""))
   (lib (name Housings_DIP)(type KiCad)(uri "$(KISYSMOD)/Housings_DIP.pretty")(options "")(descr ""))
+  (lib (name 7402)(type KiCad)(uri "$(KIPRJMOD)/PCB Footprints/7402")(options "")(descr ""))
 )
