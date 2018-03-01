@@ -1,28 +1,3 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP 7402
-D Quad Nor2
-K TTL Nor2
-$ENDCMP
-#
-$CMP 74HC02
-D Quad Nor2
-K HCMOS Nor2
-$ENDCMP
-#
-$CMP 74HCT02
-D Quad Nor2
-K HCTMOS Nor2
-$ENDCMP
-#
-$CMP 74LS02
-D Quad Nor2
-K TTL Nor2
-$ENDCMP
-#
-$CMP 74LS28
-D Quad Buffer Nor2
-K TTL Nor2 Buffer
-$ENDCMP
-#
 #End Doc Library

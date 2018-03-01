@@ -1,4 +1,4 @@
-update=28-02-2018 23:49:16
+update=01-03-2018 13:10:59
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=Schematic Symbols
@@ -63,3 +61,5 @@ LibName31=Schematic Symbols/DIN7/DIN7
 LibName32=Schematic Symbols/BRIDGE_RECTIFIER/BRIDGE_RECTIFIER
 LibName33=Schematic Symbols/74ls175/74ls175
 LibName34=Schematic Symbols/74ls02/74ls02
+[general]
+version=1
