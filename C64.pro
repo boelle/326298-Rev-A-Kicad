@@ -1,4 +1,4 @@
-update=01-03-2018 23:31:44
+update=03-03-2018 11:24:27
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,6 +23,8 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=Schematic Symbols
@@ -61,5 +63,24 @@ LibName31=Schematic Symbols/DIN7/DIN7
 LibName32=Schematic Symbols/BRIDGE_RECTIFIER/BRIDGE_RECTIFIER
 LibName33=Schematic Symbols/74ls175/74ls175
 LibName34=Schematic Symbols/74ls02/74ls02
-[general]
-version=1
+LibName35=Schematic Symbols/CONTROL_PORT/CONTROL_PORT
+LibName36=Schematic Symbols/VCC/VCC
+LibName37=Schematic Symbols/GND/GND
+LibName38=Schematic Symbols/RESISTOR  PACKS/rp4(4 singles)
+LibName39=Schematic Symbols/KEYBOARD/KEYBOARD
+LibName40=Schematic Symbols/FERRITE_BEAD/FERRITE_BEAD
+LibName41=Schematic Symbols/RESISTOR  PACKS/rp8(7 one common pin)
+LibName42=Schematic Symbols/CASSETTEPORT/CASSETTEPORT
+LibName43=Schematic Symbols/DIN6/DIN6
+LibName44=Schematic Symbols/USERPORT/USERPORT
+LibName45=Schematic Symbols/INDUCTOR/INDUCTOR
+LibName46=Schematic Symbols/DPDT_SWITCH/DPDT_SWITCH
+LibName47=Schematic Symbols/LINEFILTER/LINEFILTER
+LibName48=Schematic Symbols/VOLTAGE_REGULATOR/VR
+LibName49=Schematic Symbols/POT_METER/POT_METER
+LibName50=Schematic Symbols/DIN5/DIN5
+LibName51=Schematic Symbols/CRYSTAL/CRYSTAL
+LibName52=Schematic Symbols/RF-MODULATOR/RF-MODULATOR
+LibName53=Schematic Symbols/RESISTOR  PACKS/rp9(9 one common pin)
+LibName54=Schematic Symbols/EXPANSIONPORT/EXPANSIONPORT
+LibName55=Schematic Symbols/SN74373N/SN74373N

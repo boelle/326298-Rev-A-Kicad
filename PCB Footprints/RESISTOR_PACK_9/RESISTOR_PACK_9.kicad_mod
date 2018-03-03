@@ -1,5 +1,5 @@
-(module rp9:RP9 (layer F.Cu) (tedit 0)
-  (fp_text reference RP4 (at 0 0) (layer F.SilkS) hide
+(module RESISTOR_PACK_9:RESISTOR_PACK_9 (layer F.Cu) (tedit 5A993514)
+  (fp_text reference RP4 (at 10.91946 -2.98958) (layer F.SilkS)
     (effects (font (size 1.27 1.27) (thickness 0.15)))
   )
   (fp_text value "3.3 K" (at 0 0) (layer F.SilkS) hide
