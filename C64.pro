@@ -1,4 +1,4 @@
-update=03-03-2018 16:54:23
+update=04-03-2018 00:34:41
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=Schematic Symbols
@@ -90,3 +88,5 @@ LibName58=Schematic Symbols/5vcan/+5vcan
 LibName59=Schematic Symbols/5vvid/+5vvid
 LibName60=Schematic Symbols/5vc/+5vc
 LibName61=Schematic Symbols/12v/+12v
+[general]
+version=1

@@ -1,4 +1,4 @@
-(module EXPANSIONPORT:EXPANSIONPORT (layer F.Cu) (tedit 5A8DFF53)
+(module EXPANSIONPORT:EXPANSIONPORT (layer F.Cu) (tedit 5A9AF1F8)
   (fp_text reference CN6 (at 0 0) (layer F.SilkS) hide
     (effects (font (size 1.27 1.27) (thickness 0.15)))
   )
@@ -76,8 +76,8 @@
   (pad 22 thru_hole circle (at 26.67 2.54) (size 1.508 1.508) (drill 1) (layers *.Cu *.Mask))
   (pad Z thru_hole circle (at 26.67 -2.54) (size 1.508 1.508) (drill 1) (layers *.Cu *.Mask))
   (pad D thru_hole circle (at -19.05 -2.54) (size 1.508 1.508) (drill 1) (layers *.Cu *.Mask))
-  (pad P$1 thru_hole circle (at -39.5 -5.54) (size 3.216 3.216) (drill 2.2) (layers *.Cu *.Mask))
-  (pad P$2 thru_hole circle (at 39.5 -5.54) (size 3.216 3.216) (drill 2.2) (layers *.Cu *.Mask))
+  (pad P$1 thru_hole circle (at -39.45128 -6.1976) (size 3.216 3.216) (drill 2.2) (layers *.Cu *.Mask))
+  (pad P$2 thru_hole circle (at 39.21252 -6.56336) (size 3.216 3.216) (drill 2.2) (layers *.Cu *.Mask))
   (pad P$3 thru_hole circle (at -39.5 -29.79) (size 6 6) (drill 0.5) (layers *.Cu *.Mask))
   (pad P$4 thru_hole circle (at 39.5 -29.79) (size 6 6) (drill 0.5) (layers *.Cu *.Mask))
 )
