@@ -1,4 +1,4 @@
-update=03-03-2018 12:56:59
+update=03-03-2018 16:54:23
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,6 +23,8 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=Schematic Symbols
@@ -82,5 +84,9 @@ LibName52=Schematic Symbols/RF-MODULATOR/RF-MODULATOR
 LibName53=Schematic Symbols/RESISTOR  PACKS/rp9(9 one common pin)
 LibName54=Schematic Symbols/EXPANSIONPORT/EXPANSIONPORT
 LibName55=Schematic Symbols/SN74373N/SN74373N
-[general]
-version=1
+LibName56=Schematic Symbols/3WAY/3way
+LibName57=Schematic Symbols/9V/+9v
+LibName58=Schematic Symbols/5vcan/+5vcan
+LibName59=Schematic Symbols/5vvid/+5vvid
+LibName60=Schematic Symbols/5vc/+5vc
+LibName61=Schematic Symbols/12v/+12v
