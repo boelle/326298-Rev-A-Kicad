@@ -1,0 +1,47 @@
+update=20-02-2018 14:29:36
+version=1
+last_client=kicad
+[general]
+version=1
+RootSch=
+BoardNm=
+[pcbnew]
+version=1
+LastNetListRead=
+UseCmpFile=1
+PadDrill=0.600000000000
+PadDrillOvalY=0.600000000000
+PadSizeH=1.500000000000
+PadSizeV=1.500000000000
+PcbTextSizeV=1.500000000000
+PcbTextSizeH=1.500000000000
+PcbTextThickness=0.300000000000
+ModuleTextSizeV=1.000000000000
+ModuleTextSizeH=1.000000000000
+ModuleTextSizeThickness=0.150000000000
+SolderMaskClearance=0.000000000000
+SolderMaskMinWidth=0.000000000000
+DrawSegmentWidth=0.200000000000
+BoardOutlineThickness=0.100000000000
+ModuleOutlineThickness=0.150000000000
+[cvpcb]
+version=1
+NetIExt=net
+[eeschema]
+version=1
+LibDir=Schematic Symbols
+[eeschema/libraries]
+LibName1=Schematic Symbols/2N3904/2N3904
+LibName2=Schematic Symbols/2N4401/2N4401
+LibName3=Schematic Symbols/2114/2114
+LibName4=Schematic Symbols/2332/2332
+LibName5=Schematic Symbols/2364/2364
+LibName6=Schematic Symbols/6526/6526
+LibName7=Schematic Symbols/PN2222/PN2222
+LibName8=Schematic Symbols/TIP29B/tip29b
+LibName9=Schematic Symbols/6510/6510
+LibName10=Schematic Symbols/SN7406NN/sn7406nn
+LibName11=Schematic Symbols/4164/4164
+LibName12=Schematic Symbols/SN74257N/SN74257N
+LibName13=Schematic Symbols/SN74258N/SN74258N
+LibName14=Schematic Symbols/SN74139N/SN74139N
