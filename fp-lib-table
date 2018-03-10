@@ -57,4 +57,5 @@
   (lib (name RF-MODULATOR)(type KiCad)(uri "$(KIPRJMOD)/PCB Footprints/RF-MODULATOR")(options "")(descr ""))
   (lib (name DPDT_SWITCH)(type KiCad)(uri "$(KIPRJMOD)/PCB Footprints/DPDT_SWITCH")(options "")(descr ""))
   (lib (name VR)(type KiCad)(uri "$(KIPRJMOD)/PCB Footprints/VR")(options "")(descr ""))
+  (lib (name Fuse_5x20mm_Holder)(type Legacy)(uri "$(KIPRJMOD)/fuseholder/Fuse_5x20mm_Holder.mod")(options "")(descr ""))
 )
