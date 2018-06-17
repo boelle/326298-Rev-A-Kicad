@@ -1,8 +1,4 @@
-# 326298-Rev-A-Kicad
-
-Missing:
-
-3d shape for:
+Missing 3d shape for:
 
 Modulator
 
