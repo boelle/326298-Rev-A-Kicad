@@ -2,9 +2,7 @@ Missing 3d shape for:
 
 Modulator
 
-Expansion port connector
-
-color rings on resistors
+Expansion port connector with metal bracket
 
 7 & 6 Pin Din connecots
 
@@ -17,3 +15,7 @@ Power switch
 C10 & C11
 
 C48 & C93
+
+smd capacitor in axial glas tube
+
+better DB9 connectors
