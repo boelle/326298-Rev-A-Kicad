@@ -19,3 +19,7 @@ C48 & C93
 smd capacitor in axial glas tube
 
 better DB9 connectors
+
+Trim pot R25 & R27
+
+CR4 Bridge Rectifier
