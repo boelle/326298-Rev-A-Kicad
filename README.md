@@ -66,3 +66,6 @@ All resistors
 At summer 2019 i will order 5 boards as that is the minimum from Elecrow. I will then
 during fall/winter buy and add components. Since the chips are the most expensive parts
 it might be as far as early 2020 before i can power it up
+
+# Working on right now?
+Importing logo's traced in inkscape
