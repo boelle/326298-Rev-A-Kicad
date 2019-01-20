@@ -60,7 +60,7 @@ C10 & C11
 
 C48 & C93
 
-All resistors
+All resistors (have them as step's with correct color rings but they do no show up correct)
 
 # Plan?
 At summer 2019 i will order 5 boards as that is the minimum from Elecrow. I will then
@@ -68,4 +68,4 @@ during fall/winter buy and add components. Since the chips are the most expensiv
 it might be as far as early 2020 before i can power it up
 
 # Working on right now?
-Importing logo's traced in inkscape
+Moving logo's to copper layer
