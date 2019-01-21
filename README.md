@@ -69,4 +69,4 @@ during fall/winter buy and add components. Since the chips are the most expensiv
 it might be as far as early 2020 before i can power it up
 
 # Working on right now?
-Moving logo's to copper layer
+Trying to locate cad/3d models in step/stp format for the missing bits
