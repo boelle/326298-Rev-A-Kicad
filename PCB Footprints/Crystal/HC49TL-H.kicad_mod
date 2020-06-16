@@ -1,17 +1,15 @@
-(module crystal:HC49TL-H (layer F.Cu) (tedit 5A8738D2)
+(module HC49TL-H (layer F.Cu) (tedit 5ECE4CF3)
   (descr <b>CRYSTAL</b>)
-  (fp_text reference Y1 (at -6.985 6.477 90) (layer F.SilkS)
+  (fp_text reference Y1 (at 0.4318 13.2334 -270) (layer F.SilkS)
     (effects (font (size 1.2065 1.2065) (thickness 0.127)) (justify left bottom))
   )
-  (fp_text value "17.73 MHz" (at 8.6868 6.477 90) (layer F.SilkS)
+  (fp_text value "17.73 MHz" (at 8.6868 6.477 -270) (layer F.SilkS) hide
     (effects (font (size 1.2065 1.2065) (thickness 0.127)) (justify left bottom))
   )
-  
-  
-  (pad 1 thru_hole circle (at -2.413 7.62) (size 1.3208 1.3208) (drill 0.8128) (layers *.Cu *.Mask))
-  (pad 2 thru_hole circle (at 2.413 7.62) (size 1.3208 1.3208) (drill 0.8128) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 2.413 7.62) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at -2.413 7.62) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (model Crystals.3dshapes/Crystal_HC49-U_Vertical.wrl
-    (at (xyz -0.1 -0.3 0))
+    (offset (xyz -2.539999961853027 -7.619999885559082 0))
     (scale (xyz 0.4 0.4 0.4))
     (rotate (xyz 0 0 0))
   )
